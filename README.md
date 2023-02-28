@@ -1,6 +1,6 @@
-# Project Name
+# Personal Portfolio Webpage
 
-> One paragraph statement about the project.
+> A portfolio webpage built using html and css
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,13 +8,16 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- html
+- h1 ,p ,span
+- div
+- i
+- section
+- nav ,ul ,li
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link]https://20-fcc-personal-portfolio-webpage.netlify.app)
 
 ### Development (Running locally)
 
