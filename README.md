@@ -14,6 +14,10 @@ Additional description of the project and its features.
 - i
 - section
 - nav ,ul ,li
+- CSS
+- media query
+- pseudo selector
+- universal selector
 
 ## Live Demo
 
