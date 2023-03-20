@@ -8,16 +8,27 @@ Additional description of the project and its features.
 
 ## Built With
 
-- html
-- h1 ,p ,span
-- div
-- i
-- section
-- nav ,ul ,li
-- CSS
-- media query
-- pseudo selector
-- universal selector
+- ### HTML5 elements
+  - **Heading element**
+    `h1`
+  - **Block element**
+    `div` `p` `section` `nav`
+  - **Inline element**
+    `span` `i`
+  - **unordered list**
+    `ul` `li`
+- ### CSS properties
+  - CSS variables for reuseable CSS values,
+  - CSS media query for page responsiveness using `@media` rule,
+  - CSS positioning `fixed`,
+  - CSS `linear gradient`
+  - CSS background for page aesthetic using `background-color`, `background-image`.
+  - CSS selectors `class selector` `pseudo selector` `universal selector` `child selector` `root selector`
+- ### Linters
+  - [prettier](prettier),
+  - [stylelint](stylelint).
+
+### GitHub Action
 
 ## Live Demo
 
